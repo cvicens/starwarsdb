@@ -1,0 +1,26 @@
+{
+  "name": "starwarsdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvicens/starwarsdb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvicens/starwarsdb/issues"
+  },
+  "homepage": "https://github.com/cvicens/starwarsdb#readme"
+}
